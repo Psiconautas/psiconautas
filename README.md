@@ -9,15 +9,15 @@
 
 - 🤝 I’m looking for help with **solutions and code optimization**
 
-- 👨‍💻 All of my projects are available at [www.natan.cl](www.natan.cl)
+- 👨‍💻 All of my projects are available at [www.natan.cl](https://www.natan.cl)
 
-- 📝 I regularly write articles on [www.psic0nautas.com](www.psic0nautas.com)
+- 📝 I regularly write articles on [www.psic0nautas.com](https://www.psic0nautas.com)
 
 - 💬 Ask me about **whatever you want ;)**
 
 - 📫 How to reach me **hola@natan.cl**
 
-- 📄 Know about my experiences [www.natan.cl/cv-natanolguin.pdf](www.natan.cl/cv-natanolguin.pdf)
+- 📄 Know about my experiences [www.natan.cl/cv-natanolguin.pdf](https://www.natan.cl/cv-natanolguin.pdf)
 
 - ⚡ Fun fact **Matrix is a function of the whole system.**
 
