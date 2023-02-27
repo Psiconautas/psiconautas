@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Natan</h1>
 <h3 align="center">An Astronaut codding for you</h3>
 
-- 🔭 I’m currently working on [Nave Nodriza Psiconautas](www.psic0nautas.com/linktree)
+- 🔭 I’m currently working on [Nave Nodriza Psiconautas](https://www.psic0nautas.com/linktree)
 
 - 🌱 I’m currently learning **Machine Learning and AI - Python**
 
